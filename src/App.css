@@ -1,0 +1,32 @@
+.head{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-size: 4rem;
+    font-style: normal;
+}
+.heady{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-size: 2rem;
+    font-style: normal;
+}
+.h{
+    font-family: "Josefin Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.he{
+font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 15px;
+}
+/* .sixth{
+    height: 500px;
+    width: 100%;
+    width: 100%;
+    background-size:cover ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url('https://img.freepik.com/premium-photo/beautiful-flowers-pink-paper-background_176873-11493.jpg');
+  } */
